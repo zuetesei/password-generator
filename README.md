@@ -9,7 +9,7 @@ This app allows users to randomly generate passwords and can provide greater sec
 * JavaScript 
 
 ## Website:
-
+https://zuetesei.github.io/password-generator/
 
 ## License: 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
